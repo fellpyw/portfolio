@@ -4,6 +4,31 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfólio</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: arial, helvetica, serif;
+
+        }
+
+        body {
+            background-image: url('imagens/logo.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed; 
+        }
+
+        p {
+            border: 1px solid red;
+        }
+
+        h1 {
+            background: yellow;
+        }
+    </style>
 </head>
 <body>
     <div class="interface">
@@ -26,7 +51,7 @@
 
             <div class="titles">
                 <h1 class="title">Entregando Serviços de Qualidade</h1>
-                <h6 class="subtitle">Soluções em T.I</h6>
+                <h1 class="subtitle">Soluções em T.I</h1>
                 <p class='paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur natus obcaecati, illo doloribus iusto sit numquam nam laboriosam?</p>
             </div>
 
@@ -37,7 +62,7 @@
                 <a href="#">Instagram</a>
             </div>
         </header>
-        
+
     </div>
 </body>
 </html>
