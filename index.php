@@ -2,66 +2,11 @@
 <html lang="pt-BR">
 <head>
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Portfólio</title>
 
-
-    <style>
-
-    .root {
-        font-size: 16px;
-
-    }
-
-    * {
-        margin: 0;
-        padding: 0;
-        font-family: arial, helvetica, serif;
-        box-sizing: border-box;
-    }
-
-    body {
-       /* background-image: url('imagens/logo.png');
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: 100%;
-        background-attachment: fixed; */
-
-        border: 10px solid red;
-        width: 100vw;
-        height: 100vh;
-        overflow: hidden;
-    }
-
-    p {
-        /* border: 1px solid red; */
-        border-width: 12pt;
-        border-style: solid;
-        border-color: blue;
-        font-size: 1rem;
-
-    }
-
-    h1 {
-        background: yellow;
-        display: inline-block;
-    
-    }
-
-    h1:hover {
-        background-color: red;
-
-    }
-
-    .logo {
-
-    }
-
-
-    </style>
-
-
+    <link rel="stylesheet" href="css/style.css"/>
 </head>
 <body>
     <div class="interface">
@@ -85,7 +30,7 @@
             <div class="titles">
                 <h1 class="title">Entregando Serviços de Qualidade</h1>
                 <h1 class="subtitle">Soluções em T.I</h1>
-                <p class='paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur natus obcaecati, illo doloribus iusto sit numquam nam laboriosam?</p>
+                <p class='paragraph'>Crux sacra sit mihi lux, non draco sit mihi dux, vade retro satana! Nunquam suade mihi vana, sunt mala quae libas, ipse venena bibas</p>
             </div>
 
             <div class="socialIcons">
