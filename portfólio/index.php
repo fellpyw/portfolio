@@ -6,7 +6,7 @@
     <title>Portifólio</title>
 
     <link rel="stylesheet" href="tools/fontawesome/css/all.css" />
-    <link rel="stylesheet" href="css/estilos.css" />
+    <link rel="stylesheet" href="css/style.css" />
 
 </head>
 <body>
