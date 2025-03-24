@@ -6,7 +6,7 @@
     <title>Portifólio</title>
 
     <link rel="stylesheet" href="tools/fontawesome/css/all.css" />
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/styles.css" />
 
 </head>
 <body>
@@ -62,31 +62,26 @@
                 <h3 class="title-servico">Desenvolvimento WEB</h3>
                 <p class="text-servico">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis omnis, voluptas error impedit consectetur vitae.</p>
             </article>
-
             <article class="servico">
                 <img src="imagens/service-hosting.svg" alt="Hosting">
                 <h3 class="title-hosting">WEB Hosting</h3>
                 <p class="text-servico">Possimus vel temporibus deleniti repudiandae in similique unde necessitatibus odit corporis nihil soluta, ad repellendus?</p>
             </article>
-
             <article class="servico">
                 <img src="imagens/service-social.svg" alt="Social Media">
                 <h3 class="title-servico">Mídias Sociais</h3>
                 <p class="text-servico">Earum mollitia a, quaerat magni dignissimos, sint velit libero minus magnam saepe perferendis aspernatur? Libero!</p>
             </article>
-
             <article class="servico">
                 <img src="imagens/service-seo.svg" alt="SEO">
                 <h3 class="title-servico">Aplicações SEO</h3>
                 <p class="text-servico">Maiores aliquid sequi expedita. Rerum itaque nihil maxime at explicabo similique recusandae saepe magnam a!</p>
             </article>
-
             <article class="servico">
                 <img src="imagens/service-cloud.svg" alt="Cloud">
                 <h3 class="title-servico">Computação em Nuvem</h3>
                 <p class="text-servico">Provident velit fuga consequuntur quae, iste accusamus repellendus, officiis quibusdam, odio doloribus voluptates iusto perspiciatis.</p>
             </article>
-            
             <article class="servico">
                 <img src="imagens/service-secure.svg" alt="Security">
                 <h3 class="title-servico">Segurança de Dados</h3>
@@ -100,11 +95,53 @@
             <h3 class="title-portifolio">Nosso Portifólio</h3>
             <p class="sub-title">Lorem ipsum dolor sit amet.</p>
 
+            <div class="container-imagens">
+                <a href="#" class="img" style="background-image: url('imagens/product-1.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-2.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-3.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-4.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-5.jpg');">
+
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-6.jpg');">
+                    
+                </a>
+            </div>
+
+        </section>
+
+        <section class="banner">
+
+            <hgroup class="container-texto">
+
+                <h4 class="title-banner">Saiba mais sobre nossos Projetos</h4>
+
+                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat similique, placeat maxime odio voluptas ducimus pariatur libero accusamus, ad aperiam quis et repellendus cupiditate nostrum.</p>
+
+                <a href="#" class="btn-banner">Saiba mais</a>
+
+            </hgroup>
+
         </section>
 
         <section class="sobre">
 
 
+
+        </section>
+
+        <section class="contato">
+
+            <h3 class="title-contato">Fale Conosco</h3>
+            <p class="sub-title">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
 
         </section>
 
