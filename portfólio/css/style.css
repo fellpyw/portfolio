@@ -271,7 +271,6 @@
     font-size: 2rem;
     font-weight: normal;
     font-family: Roboto;
-    text-transform: uppercase;
 }
 
 #interface #corpo .banner .container-texto .txt-banner {
@@ -292,5 +291,4 @@
 
 #interface #corpo .banner .container-texto .btn-banner:hover {
     background-color: #2B5995;
-
 }
