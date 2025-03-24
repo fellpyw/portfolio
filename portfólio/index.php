@@ -6,7 +6,7 @@
     <title>Portifólio</title>
 
     <link rel="stylesheet" href="tools/fontawesome/css/all.css" />
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/style.css" />
 
 </head>
 <body>
@@ -142,8 +142,38 @@
 
             <h3 class="title-contato">Fale conosco</h3>
             <p class="sub-title">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+            
+            <div class="container-contato">
 
-            form
+                <aside class="dados-contato">
+
+                    <h4 class="title-aside">Endereço</h4>
+                    <p class="txt-aside">Rua das Margaridas, S/Nº - Centro - Manhuaçu/MG</p>
+
+                    <h4 class="title-aside">Telefone</h4>
+                    <p class="txt-aside">33 3331-3333</p>
+                    <p class="txt-aside">33 98400-9999</p>
+
+                    <h4 class="title-aside">E-mail</h4>
+                    <p class="txt-aside">contato@meusite.com.br</p>
+                    <p class="txt-aside">faleconosco@meusite.com.br</p>
+
+                </aside>
+
+                <form action="" method="post">
+
+                    <input type="text" name="nome" id="" placeholder="Nome *" required />
+                    <input type="email" name="email" id="" placeholder="E-Mail *" required />
+                    <input type="text" name="assunto" id="assunto" placeholder="Assunto" />
+                    <textarea name="mensagem" id="mensagem" placeholder="Mensagem *" required></textarea>
+
+                    <input type="submit" value="Enviar Mensagem" />
+
+                </form>
+
+            </div>
+
+
 
         </section>
 
