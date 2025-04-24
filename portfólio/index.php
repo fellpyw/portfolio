@@ -6,7 +6,7 @@
     <title>Portifólio</title>
 
     <link rel="stylesheet" href="tools/fontawesome/css/all.css" />
-    <link rel="stylesheet" href="css/estilos.css" />
+    <link rel="stylesheet" href="css/styles.css" />
 
     <script src="tools/jquery/jquery.js"></script>
 
@@ -250,7 +250,7 @@
 
             </div>
 
-            <p class="txt-creditos">Geraldo Cezário Neto &copy; 2025</p>
+            <p class="txt-creditos">Felipe Rodrigues Veriato &copy; 2025</p>
 
         </div>
 
